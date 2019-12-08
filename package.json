@@ -1,0 +1,27 @@
+{
+  "name": "node-local-ip",
+  "version": "1.0.0",
+  "description": "get node local ip address",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b42inc/node-local-ip.git"
+  },
+  "keywords": [
+    "node",
+    "localip",
+    "ipaddress"
+  ],
+  "author": "Bushitsu Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b42inc/node-local-ip/issues"
+  },
+  "homepage": "https://github.com/b42inc/node-local-ip#readme",
+  "devDependencies": {
+    "jest": "24.9.0"
+  }
+}
