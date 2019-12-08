@@ -11,3 +11,4 @@ root: for (const ifname in ifaces) {
 }
 
 module.exports = host
+module.exports.default = host
